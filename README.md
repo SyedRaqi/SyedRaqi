@@ -42,157 +42,250 @@ I'm a fourth-year Data Science Engineering student interested in software engine
 ## ◈ 02 — FEATURED PROJECTS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PORTFOLIO-SELECTED_PROJECTS-00D9FF?style=for-the-badge&labelColor=080D1A" alt="Selected Projects">
-  <br>
-  <sub>ENGINEERING · ARTIFICIAL INTELLIGENCE · DATA · INNOVATION</sub>
-  <br><br>
-  <samp>Turning ideas into practical digital experiences.</samp>
+  <strong>✦ SELECTED WORKS · ENGINEERING · INTELLIGENCE ✦</strong>
+  <br/>
+  <sub>Building practical applications through data, design, and intelligent technology.</sub>
 </p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/01-CAMPUS_TECH-00D9FF?style=for-the-badge&labelColor=080D1A" alt="Campus technology">
-</p>
+<!-- PROJECT 01 — CAMPUSCONNECT AI -->
 
-<h3 align="center">🚀 CampusConnect AI</h3>
-
-<p align="center"><strong>THE INTELLIGENT CAMPUS ECOSYSTEM</strong></p>
-
-<p>A campus collaboration platform connecting students, faculty, and administrators through a unified digital experience.</p>
-
-**<code>CORE CAPABILITIES</code>**
-
-- 🎓 Role-based campus workflows
-- 💬 Collaboration and communication
-- 📚 Academic resources and notifications
-- 🧠 AI workspace and database integration
-
-**<code>TECH STACK</code>**
-
-<p>
-  <img src="https://img.shields.io/badge/React-00D9FF?style=flat-square&logo=react&logoColor=00D9FF&labelColor=080D1A" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-00D9FF?style=flat-square&logo=typescript&logoColor=00D9FF&labelColor=080D1A" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-00D9FF?style=flat-square&logo=tailwindcss&logoColor=00D9FF&labelColor=080D1A" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Supabase-00D9FF?style=flat-square&logo=supabase&logoColor=00D9FF&labelColor=080D1A" alt="Supabase">
-</p>
-
-<p align="center">
-  <a href="https://github.com/SyedRaqi/CampusAI"><img src="https://img.shields.io/badge/VIEW_SOURCE-00D9FF?style=for-the-badge&labelColor=080D1A" alt="View source"></a>
-  <a href="https://syedraqi.github.io/CampusAI/"><img src="https://img.shields.io/badge/LIVE_DEMO-00D9FF?style=for-the-badge&labelColor=080D1A" alt="Live demo"></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/02-AI_CAREER_TOOLS-00D9FF?style=for-the-badge&labelColor=080D1A" alt="AI career tools">
-</p>
-
-<h3 align="center">🧠 SmartHire AI</h3>
-
-<p align="center"><strong>INTELLIGENT CAREER ASSISTANT</strong></p>
-
-<p>A resume intelligence application designed to analyze candidate skills, identify skill gaps, and evaluate alignment with job descriptions.</p>
-
-**<code>CORE CAPABILITIES</code>**
-
-- 📄 PDF resume extraction
-- 🎯 Skill-gap analysis
-- 🔎 Job-description matching
-- 📊 Resume scoring and career insights
-
-**<code>TECH STACK</code>**
-
-<p>
-  <img src="https://img.shields.io/badge/React-00D9FF?style=flat-square&logo=react&logoColor=00D9FF&labelColor=080D1A" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-00D9FF?style=flat-square&logo=typescript&logoColor=00D9FF&labelColor=080D1A" alt="TypeScript">
-  <img src="https://img.shields.io/badge/FastAPI-00D9FF?style=flat-square&logo=fastapi&logoColor=00D9FF&labelColor=080D1A" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Python-00D9FF?style=flat-square&logo=python&logoColor=00D9FF&labelColor=080D1A" alt="Python">
-</p>
-
-<p align="center">
-  <a href="YOUR_SMARTHIRE_REPOSITORY_URL"><img src="https://img.shields.io/badge/VIEW_SOURCE-00D9FF?style=for-the-badge&labelColor=080D1A" alt="View source"></a>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/03-DATABASE_SYSTEMS-00D9FF?style=for-the-badge&labelColor=080D1A" alt="Database systems">
-</p>
-
-<h3 align="center">📚 Library Management System</h3>
-
-<p align="center"><strong>SMART LIBRARY OPERATIONS</strong></p>
-
-<p>A database-driven application that streamlines library operations, organizes book records, and simplifies borrowing workflows.</p>
-
-**<code>CORE CAPABILITIES</code>**
-
-- 📖 Book and inventory management
-- 👥 Member management
-- 🔄 Issue and return tracking
-- 📈 Reports and dashboard
-
-**<code>TECH STACK</code>**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-00D9FF?style=flat-square&logo=python&logoColor=00D9FF&labelColor=080D1A" alt="Python">
-  <img src="https://img.shields.io/badge/Flask-00D9FF?style=flat-square&logo=flask&logoColor=00D9FF&labelColor=080D1A" alt="Flask">
-  <img src="https://img.shields.io/badge/MySQL-00D9FF?style=flat-square&logo=mysql&logoColor=00D9FF&labelColor=080D1A" alt="MySQL">
-</p>
-
-<p align="center">
-  <a href="YOUR_LIBRARY_REPOSITORY_URL"><img src="https://img.shields.io/badge/VIEW_SOURCE-00D9FF?style=for-the-badge&labelColor=080D1A" alt="View source"></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/04-DEVELOPER_BRANDING-00D9FF?style=for-the-badge&labelColor=080D1A" alt="Developer branding">
-</p>
-
-<h3 align="center">🌐 Developer Portfolio</h3>
-
-<p align="center"><strong>THE DEVELOPER EXPERIENCE</strong></p>
-
-<p>A personal showcase of technical skills, development projects, and my journey as a Data Science Engineering student.</p>
-
-**<code>CORE CAPABILITIES</code>**
-
-- 💻 Project showcases
-- ⚙️ Technical skills and tools
-- ✨ Personal branding and presentation
-- 🚀 Continuous learning and development
-
-**<code>TECH FOCUS</code>**
-
-<p>
-  <img src="https://img.shields.io/badge/Web_Development-00D9FF?style=flat-square&logo=googlechrome&logoColor=00D9FF&labelColor=080D1A" alt="Web development">
-  <img src="https://img.shields.io/badge/Data_Science-00D9FF?style=flat-square&logo=python&logoColor=00D9FF&labelColor=080D1A" alt="Data science">
-  <img src="https://img.shields.io/badge/AI_ML-00D9FF?style=flat-square&logo=tensorflow&logoColor=00D9FF&labelColor=080D1A" alt="AI and ML">
-</p>
-
-<p align="center">
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/VISIT_PORTFOLIO-00D9FF?style=for-the-badge&labelColor=080D1A" alt="Visit portfolio"></a>
-</p>
-
-</td>
-</tr>
+<table width="100%" bgcolor="#07111F">
+  <tr>
+    <td colspan="2" bgcolor="#00D9FF" height="4"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="left">
+      <br/>
+      <sub>01 / AI-POWERED ECOSYSTEM</sub>
+      <h2>🚀 CampusConnect AI</h2>
+      <strong>CONNECTING AN ENTIRE CAMPUS THROUGH INTELLIGENCE</strong>
+      <br/><br/>
+      A digital campus ecosystem designed to bring students, faculty, and administrators together through academic services, collaboration, communication, and AI-powered tools.
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>◈ CORE CAPABILITIES</strong>
+      <br/><br/>
+      ▸ Role-based campus workflows
+      <br/>
+      ▸ Academic resources and notifications
+      <br/>
+      ▸ Student–faculty collaboration
+      <br/>
+      ▸ AI workspace and database integration
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <strong>◈ TECHNOLOGY MATRIX</strong>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=00D9FF" alt="React"/>
+      <img src="https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=00D9FF" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Tailwind-0B1220?style=for-the-badge&logo=tailwindcss&logoColor=00D9FF" alt="Tailwind CSS"/>
+      <img src="https://img.shields.io/badge/Supabase-0B1220?style=for-the-badge&logo=supabase&logoColor=00D9FF" alt="Supabase"/>
+      <br/><br/>
+      <sub>FRONTEND · AUTHENTICATION · DATA · AI</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="left">
+      <hr/>
+      <strong>↗ EXPLORE THE PROJECT</strong>
+      <br/><br/>
+      <a href="https://github.com/SyedRaqi/CampusAI">
+        <img src="https://img.shields.io/badge/SOURCE_CODE-00D9FF?style=for-the-badge&logo=github&logoColor=07111F" alt="Source code"/>
+      </a>
+      &nbsp;
+      <a href="https://syedraqi.github.io/CampusAI/">
+        <img src="https://img.shields.io/badge/LIVE_DEMO-0B1220?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Live demo"/>
+      </a>
+      <br/><br/>
+    </td>
+  </tr>
 </table>
 
+<br/>
+
+<!-- PROJECT 02 — SMARTHIRE AI -->
+
+<table width="100%" bgcolor="#07111F">
+  <tr>
+    <td colspan="2" bgcolor="#00D9FF" height="4"></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <br/>
+      <sub>02 / INTELLIGENT CAREER SYSTEM</sub>
+      <h2>🧠 SmartHire AI</h2>
+      <strong>TRANSFORMING RESUMES INTO CAREER INSIGHTS</strong>
+      <br/><br/>
+      A resume intelligence and job-matching application built to analyze candidate skills, identify skill gaps, and evaluate alignment with job requirements.
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>◈ CORE CAPABILITIES</strong>
+      <br/><br/>
+      ▸ PDF resume text extraction
+      <br/>
+      ▸ Skill-gap analysis
+      <br/>
+      ▸ Job-description matching
+      <br/>
+      ▸ Resume scoring and career insights
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <strong>◈ TECHNOLOGY MATRIX</strong>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=00D9FF" alt="React"/>
+      <img src="https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=00D9FF" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/FastAPI-0B1220?style=for-the-badge&logo=fastapi&logoColor=00D9FF" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=00D9FF" alt="Python"/>
+      <br/><br/>
+      <sub>RESUME PARSING · MATCHING · CAREER ANALYTICS</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <hr/>
+      <strong>↗ EXPLORE THE PROJECT</strong>
+      <br/><br/>
+      <!-- TODO: Replace REPLACE_WITH_SMARTHIRE_REPOSITORY with the real repository URL. -->
+      <a href="https://github.com/REPLACE_WITH_SMARTHIRE_REPOSITORY">
+        <img src="https://img.shields.io/badge/SOURCE_CODE-00D9FF?style=for-the-badge&logo=github&logoColor=07111F" alt="Source code — replace URL"/>
+      </a>
+      &nbsp;
+      <!-- TODO: Replace REPLACE_WITH_SMARTHIRE_DEMO with the real deployed URL. -->
+      <a href="https://REPLACE_WITH_SMARTHIRE_DEMO">
+        <img src="https://img.shields.io/badge/LIVE_DEMO-0B1220?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Live demo — replace URL"/>
+      </a>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- PROJECT 03 — LIBRARY MANAGEMENT SYSTEM -->
+
+<table width="100%" bgcolor="#07111F">
+  <tr>
+    <td colspan="2" bgcolor="#00D9FF" height="4"></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <br/>
+      <sub>03 / DATABASE ENGINEERING</sub>
+      <h2>📚 Library Management System</h2>
+      <strong>STRUCTURED DATA. STREAMLINED OPERATIONS.</strong>
+      <br/><br/>
+      A database-driven application for organizing library operations, managing book records, tracking borrowing activity, and simplifying member administration.
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>◈ CORE CAPABILITIES</strong>
+      <br/><br/>
+      ▸ Book and member management
+      <br/>
+      ▸ Issue and return tracking
+      <br/>
+      ▸ User authentication
+      <br/>
+      ▸ Reports and dashboard
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <strong>◈ TECHNOLOGY MATRIX</strong>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=00D9FF" alt="Python"/>
+      <img src="https://img.shields.io/badge/Flask-0B1220?style=for-the-badge&logo=flask&logoColor=00D9FF" alt="Flask"/>
+      <img src="https://img.shields.io/badge/MySQL-0B1220?style=for-the-badge&logo=mysql&logoColor=00D9FF" alt="MySQL"/>
+      <br/><br/>
+      <sub>BACKEND · DATABASE · REPORTING</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <hr/>
+      <strong>↗ EXPLORE THE PROJECT</strong>
+      <br/><br/>
+      <!-- TODO: Replace REPLACE_WITH_LIBRARY_REPOSITORY with the real repository URL. -->
+      <a href="https://github.com/REPLACE_WITH_LIBRARY_REPOSITORY">
+        <img src="https://img.shields.io/badge/SOURCE_CODE-00D9FF?style=for-the-badge&logo=github&logoColor=07111F" alt="Source code — replace URL"/>
+      </a>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- PROJECT 04 — DEVELOPER PORTFOLIO -->
+
+<table width="100%" bgcolor="#07111F">
+  <tr>
+    <td colspan="2" bgcolor="#00D9FF" height="4"></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <br/>
+      <sub>04 / PERSONAL BRAND &amp; ENGINEERING</sub>
+      <h2>🌐 Developer Portfolio</h2>
+      <strong>A DIGITAL SPACE FOR IDEAS, PROJECTS, AND GROWTH</strong>
+      <br/><br/>
+      A personal portfolio showcasing development projects, technical skills, and the journey of a Data Science Engineering student building practical software solutions.
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>◈ PORTFOLIO HIGHLIGHTS</strong>
+      <br/><br/>
+      ▸ Featured project showcases
+      <br/>
+      ▸ Technical skills and tools
+      <br/>
+      ▸ Development journey
+      <br/>
+      ▸ Professional contact links
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <strong>◈ TECHNOLOGY MATRIX</strong>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Frontend-0B1220?style=for-the-badge&logo=html5&logoColor=00D9FF" alt="Frontend development"/>
+      <img src="https://img.shields.io/badge/Development-0B1220?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Development"/>
+      <br/><br/>
+      <sub>DESIGN · PROJECTS · PROFESSIONAL PRESENCE</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <hr/>
+      <strong>↗ EXPLORE THE PROJECT</strong>
+      <br/><br/>
+      <!-- TODO: Replace REPLACE_WITH_PORTFOLIO_URL with your actual portfolio URL. -->
+      <a href="https://REPLACE_WITH_PORTFOLIO_URL">
+        <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=07111F" alt="Visit portfolio — replace URL"/>
+      </a>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+---
+
 <p align="center">
-  <img src="https://img.shields.io/badge/BUILD-00D9FF?style=flat-square&labelColor=080D1A" alt="Build">
-  <img src="https://img.shields.io/badge/LEARN-00D9FF?style=flat-square&labelColor=080D1A" alt="Learn">
-  <img src="https://img.shields.io/badge/INNOVATE-00D9FF?style=flat-square&labelColor=080D1A" alt="Innovate">
-  <br><br>
-  <strong>Learn continuously. Build thoughtfully. Ship meaningful work.</strong>
+  <sub>◈ DESIGNED TO SOLVE REAL PROBLEMS · BUILT TO KEEP IMPROVING ◈</sub>
+  <br/><br/>
+  <strong>LEARN CONTINUOUSLY. BUILD THOUGHTFULLY. SHIP MEANINGFUL WORK.</strong>
 </p>
 
 ## ◈ 03 — TECH STACK
