@@ -1,7 +1,7 @@
 # Hey, I'm Syed Raqi 👋
 
 <p align="center">
-  ![Syed Raqi — Data Science Engineer](./a_wide_cinematic_futuristic_tech_themed_banner_h.png) alt="Syed Raqi — Data Science Engineer" width="100%" />
+  (./a_wide_cinematic_futuristic_tech_themed_banner_h.png) alt="Syed Raqi — Data Science Engineer" width="100%" />
 </p>
 
 <h3 align="center">
