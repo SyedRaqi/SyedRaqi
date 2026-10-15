@@ -1,7 +1,9 @@
 <!-- CINEMATIC GITHUB PROFILE — SYED RAQI -->
 
 <p align="center">
-  <img src="assets/github-hero.png" width="100%" alt="Syed Raqi — Data Science Engineer" />
+  <img src="./a_wide_cinematic_futuristic_tech_themed_banner_h.png"
+       width="100%"
+       alt="Syed Raqi — Data Science Engineer" />
 </p>
 
 <h1 align="center">Hey, I'm Syed Raqi 👋</h1>
