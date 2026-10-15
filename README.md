@@ -41,66 +41,106 @@ I'm a fourth-year Data Science Engineering student interested in software engine
 
 ## ◈ 02 — FEATURED PROJECTS
 
+<p align="center">
+  <strong>✦ SELECTED WORKS · ENGINEERING · INTELLIGENCE ✦</strong>
+  <br>
+  <sub>Building practical applications through data, design, and intelligent technology.</sub>
+</p>
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 CampusConnect AI</h3>
-      <strong>AI-powered campus collaboration platform</strong>
-      <p>A campus-focused application designed to connect students, faculty, and administrators through digital services.</p>
-      <ul>
-        <li>Role-based campus workflows</li>
-        <li>Academic resources and notifications</li>
-        <li>Collaboration and AI workspace</li>
-      </ul>
-      <strong>Stack:</strong> React · TypeScript · Tailwind CSS · Supabase
-      <p>
-        <a href="https://github.com/SyedRaqi/CampusAI">View source →</a>
-        <br />
-        <a href="https://syedraqi.github.io/CampusAI/">Explore live site →</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 SmartHire AI</h3>
-      <strong>Resume intelligence and job matching</strong>
-      <p>A career tool designed to analyze resumes and identify alignment with job descriptions.</p>
-      <ul>
-        <li>PDF resume extraction</li>
-        <li>Skill-gap analysis</li>
-        <li>Job matching and explainable scoring</li>
-      </ul>
-      <strong>Stack:</strong> React · TypeScript · FastAPI · Python
-      <p><a href="https://github.com/SyedRaqi?tab=repositories">View projects →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 Library Management System</h3>
-      <strong>Database-driven management application</strong>
-      <p>A system for organizing library operations and simplifying common workflows.</p>
-      <ul>
-        <li>Book and member management</li>
-        <li>Issue and return tracking</li>
-        <li>Authentication and reporting</li>
-      </ul>
-      <strong>Stack:</strong> Python · Flask · MySQL
-      <p><a href="https://github.com/SyedRaqi?tab=repositories">View projects →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Developer Portfolio</h3>
-      <strong>A showcase of my work and technical journey</strong>
-      <p>Explore my projects, development interests, and skills in one place.</p>
-      <ul>
-        <li>Project showcases</li>
-        <li>Technical skills</li>
-        <li>Portfolio presentation</li>
-      </ul>
-      <strong>Focus:</strong> Development · Design · Problem-solving
-      <p><a href="YOUR_PORTFOLIO_URL">Visit portfolio →</a></p>
-    </td>
-  </tr>
+
+### 🚀 CampusConnect AI
+
+**AI-POWERED CAMPUS ECOSYSTEM**
+
+A digital campus platform connecting students, faculty, and administrators through a unified academic and collaboration experience.
+
+- 🎓 Role-based campus workflows
+- 💬 Collaboration and communication
+- 📚 Academic resources and notifications
+- 🧠 AI workspace and database integration
+
+**TECH STACK**
+
+<img src="https://img.shields.io/badge/React-0B1220?style=flat-square&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/TypeScript-0B1220?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"> <img src="https://img.shields.io/badge/Tailwind-0B1220?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Supabase-0B1220?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase">
+
+**[↗ VIEW SOURCE](https://github.com/SyedRaqi/CampusAI)** · **[↗ LIVE DEMO](https://syedraqi.github.io/CampusAI/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 SmartHire AI
+
+**INTELLIGENT CAREER ASSISTANT**
+
+A resume analysis and job-matching application designed to evaluate candidate skills, identify skill gaps, and help users understand their alignment with job requirements.
+
+- 📄 PDF resume extraction
+- 🎯 Skill-gap analysis
+- 🔍 Job-description matching
+- 📊 Resume scoring and career insights
+
+**TECH STACK**
+
+<img src="https://img.shields.io/badge/React-0B1220?style=flat-square&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/TypeScript-0B1220?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"> <img src="https://img.shields.io/badge/FastAPI-0B1220?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI"> <img src="https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=FFD43B" alt="Python">
+
+**[↗ VIEW SOURCE](YOUR_SMARTHIRE_REPOSITORY_URL)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Library Management System
+
+**SMART LIBRARY OPERATIONS**
+
+A database-driven application that simplifies library operations, organizes book records, and streamlines member and borrowing management.
+
+- 📖 Book and inventory management
+- 👥 Member management
+- 🔄 Issue and return tracking
+- 📈 Reports and dashboard
+
+**TECH STACK**
+
+<img src="https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=FFD43B" alt="Python"> <img src="https://img.shields.io/badge/Flask-0B1220?style=flat-square&logo=flask&logoColor=FFFFFF" alt="Flask"> <img src="https://img.shields.io/badge/MySQL-0B1220?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL">
+
+**[↗ VIEW SOURCE](YOUR_LIBRARY_REPOSITORY_URL)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Developer Portfolio
+
+**PERSONAL TECHNICAL SHOWCASE**
+
+A central space for presenting development projects, technical skills, and my journey as a Data Science Engineering student and aspiring software developer.
+
+- 💻 Project showcases
+- ⚙️ Technical skills and tools
+- ✨ Personal branding and presentation
+- 🚀 Continuous learning and development
+
+**TECH FOCUS**
+
+<img src="https://img.shields.io/badge/Web_Development-0B1220?style=flat-square&logo=googlechrome&logoColor=06B6D4" alt="Web Development"> <img src="https://img.shields.io/badge/Data_Science-0B1220?style=flat-square&logo=python&logoColor=FFD43B" alt="Data Science"> <img src="https://img.shields.io/badge/AI%2FML-0B1220?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="AI and ML">
+
+**[↗ VISIT PORTFOLIO](YOUR_PORTFOLIO_URL)**
+
+</td>
+</tr>
 </table>
 
----
+<p align="center">
+  <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
+  <br>
+  <strong>DESIGNED TO SOLVE REAL PROBLEMS · BUILT TO KEEP IMPROVING</strong>
+  <br>
+  <sub>Learn continuously. Build thoughtfully. Ship meaningful work.</sub>
+</p>
 
 ## ◈ 03 — TECH STACK
 
