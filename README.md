@@ -29,7 +29,7 @@
 <br/>
 
 <!-- ░░░ ACT III — SYSTEM MODULES (based on what your repos actually use) ░░░ -->
-<img src="./assets/h-modules.svg" width="100%" alt="SYSTEM_MODULES" />
+<img src="./h-modules.svg" width="100%" alt="SYSTEM_MODULES" />
 
 <div align="center">
 
@@ -46,12 +46,12 @@
 
 <br/>
 
-<div align="center"><img src="./assets/network.svg" width="100%" alt="3D neural network" /></div>
+<div align="center"><img src="./network.svg" width="100%" alt="3D neural network" /></div>
 
 <br/>
 
 <!-- ░░░ ACT IV — FEATURED OPERATIONS ░░░ -->
-<img src="./assets/h-ops.svg" width="100%" alt="FEATURED_OPERATIONS" />
+<img src="./h-ops.svg" width="100%" alt="FEATURED_OPERATIONS" />
 
 <div align="center">
 
@@ -85,7 +85,7 @@
 <br/>
 
 <!-- ░░░ ACT V — TELEMETRY ░░░ -->
-<img src="./assets/h-telemetry.svg" width="100%" alt="TELEMETRY" />
+<img src="./h-telemetry.svg" width="100%" alt="TELEMETRY" />
 
 <div align="center">
 
@@ -114,7 +114,7 @@
 -->
 
 <!-- ░░░ CREDITS — CONTACT ░░░ -->
-<img src="./assets/h-channels.svg" width="100%" alt="OPEN_CHANNELS" />
+<img src="./h-channels.svg" width="100%" alt="OPEN_CHANNELS" />
 
 <div align="center">
 
@@ -128,8 +128,8 @@
 
 <br/>
 
-<img src="./assets/quote.svg" width="100%" alt="Quote" />
+<img src="./quote.svg" width="100%" alt="Quote" />
 
-<img src="./assets/tunnel.svg" width="100%" alt="Thanks for visiting" />
+<img src="./tunnel.svg" width="100%" alt="Thanks for visiting" />
 
 </div>
