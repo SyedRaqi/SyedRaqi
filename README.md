@@ -18,13 +18,13 @@
 <br/>
 
 <!-- ░░░ ACT II — MISSION BRIEFING ░░░ -->
-<img src="./assets/h-mission.svg" width="100%" alt="MISSION_BRIEFING" />
+<img src="./h-mission.svg" width="100%" alt="MISSION_BRIEFING" />
 
-<img src="./assets/mission.svg" width="100%" alt="Mission briefing" />
+<img src="./mission.svg" width="100%" alt="Mission briefing" />
 
 <br/>
 
-<div align="center"><img src="./assets/globe.svg" width="100%" alt="Rotating globe" /></div>
+<div align="center"><img src="./globe.svg" width="100%" alt="Rotating globe" /></div>
 
 <br/>
 
