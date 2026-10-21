@@ -1,7 +1,7 @@
 <!-- ░░░ ACT I — TITLE SEQUENCE ░░░ -->
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Syed Raqi 3D animated banner" />
+<img src="./assets/banner.svg" width="100%" alt="Syed Raqi 3D animated banner" />
 
 <a href="https://github.com/SyedRaqi">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=760&height=50&lines=%3E+initializing+profile...;%3E+loading+modules...+%5BOK%5D;%3E+building+AI-powered+full-stack+apps;%3E+security+%2B+data+%2B+web;%3E+open+to+collaboration" alt="typing intro" />
@@ -18,25 +18,18 @@
 <br/>
 
 <!-- ░░░ ACT II — MISSION BRIEFING ░░░ -->
-## `> MISSION_BRIEFING`
+<img src="./assets/h-mission.svg" width="100%" alt="MISSION_BRIEFING" />
 
-```yaml
-operator:
-  name: "Syed Raqi"
-  role: "Data Science Engineering Student · Full-Stack Developer"
-  base: "Bhatkal, Karnataka, India"
-  status: "ONLINE"
-  focus: ["AI-powered web apps", "Full-stack development", "Security & encryption"]
-  current_mission: "Shipping AI-powered products for campuses and careers"
-  recent_builds: ["CampusConnect AI", "SmartHire AI", "Face Vault", "ILMS"]
-  open_to: ["Collaborations", "Internships", "Open Source"]
-  motto: "Ship it. Learn. Repeat."                      # ✎ edit me
-```
+<img src="./assets/mission.svg" width="100%" alt="Mission briefing" />
+
+<br/>
+
+<div align="center"><img src="./assets/globe.svg" width="100%" alt="Rotating globe" /></div>
 
 <br/>
 
 <!-- ░░░ ACT III — SYSTEM MODULES (based on what your repos actually use) ░░░ -->
-## `> SYSTEM_MODULES`
+<img src="./assets/h-modules.svg" width="100%" alt="SYSTEM_MODULES" />
 
 <div align="center">
 
@@ -53,8 +46,12 @@ operator:
 
 <br/>
 
+<div align="center"><img src="./assets/network.svg" width="100%" alt="3D neural network" /></div>
+
+<br/>
+
 <!-- ░░░ ACT IV — FEATURED OPERATIONS ░░░ -->
-## `> FEATURED_OPERATIONS`
+<img src="./assets/h-ops.svg" width="100%" alt="FEATURED_OPERATIONS" />
 
 <div align="center">
 
@@ -88,7 +85,7 @@ operator:
 <br/>
 
 <!-- ░░░ ACT V — TELEMETRY ░░░ -->
-## `> TELEMETRY`
+<img src="./assets/h-telemetry.svg" width="100%" alt="TELEMETRY" />
 
 <div align="center">
 
@@ -117,7 +114,7 @@ operator:
 -->
 
 <!-- ░░░ CREDITS — CONTACT ░░░ -->
-## `> OPEN_CHANNELS`
+<img src="./assets/h-channels.svg" width="100%" alt="OPEN_CHANNELS" />
 
 <div align="center">
 
@@ -131,13 +128,8 @@ operator:
 
 <br/>
 
-```text
-┌──────────────────────────────────────────────┐
-│  "Every great system starts as a single      │
-│   commit."                                   │
-└──────────────────────────────────────────────┘
-```
+<img src="./assets/quote.svg" width="100%" alt="Quote" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
+<img src="./assets/tunnel.svg" width="100%" alt="Thanks for visiting" />
 
 </div>
