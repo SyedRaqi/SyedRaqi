@@ -1,7 +1,7 @@
 <!-- ░░░ ACT I — TITLE SEQUENCE ░░░ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=SYED%20RAQI&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=//%20DATA%20SCIENCE%20ENGINEERING%20STUDENT%20%C2%B7%20FULL-STACK%20%26%20AI%20BUILDER&descSize=16&descAlignY=60" width="100%" alt="header" />
+<img src="./assets/banner.svg" width="100%" alt="Syed Raqi 3D animated banner" />
 
 <a href="https://github.com/SyedRaqi">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=760&height=50&lines=%3E+initializing+profile...;%3E+loading+modules...+%5BOK%5D;%3E+building+AI-powered+full-stack+apps;%3E+security+%2B+data+%2B+web;%3E+open+to+collaboration" alt="typing intro" />
