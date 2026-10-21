@@ -1,7 +1,7 @@
 <!-- ░░░ ACT I — TITLE SEQUENCE ░░░ -->
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Syed Raqi 3D animated banner" />
+<img src="./banner.svg" width="100%" alt="Syed Raqi 3D animated banner" />
 
 <a href="https://github.com/SyedRaqi">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=760&height=50&lines=%3E+initializing+profile...;%3E+loading+modules...+%5BOK%5D;%3E+building+AI-powered+full-stack+apps;%3E+security+%2B+data+%2B+web;%3E+open+to+collaboration" alt="typing intro" />
