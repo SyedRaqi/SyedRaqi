@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 64" width="100%" role="img" aria-label="Open Channels"><defs><linearGradient id="bd" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00f5ff"/><stop offset=".5" stop-color="#7c6cff"/><stop offset="1" stop-color="#00f5ff"/></linearGradient>
+<linearGradient id="sc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00f5ff" stop-opacity="0"/><stop offset=".5" stop-color="#00f5ff" stop-opacity=".35"/><stop offset="1" stop-color="#00f5ff" stop-opacity="0"/></linearGradient>
+<filter id="glow" x="-20%" y="-40%" width="140%" height="180%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs><clipPath id="c"><rect x="0" y="0" width="0" height="64"><animate attributeName="width" values="0;1200" dur="1.4s" fill="freeze"/></rect></clipPath>
+<rect x="1" y="1" width="1198" height="62" rx="10" fill="#0f0c29" stroke="url(#bd)" stroke-width="1.5"/>
+<rect x="1" y="1" width="1198" height="62" rx="10" fill="none" stroke="#00f5ff" stroke-width="1.5" stroke-dasharray="40 1160" filter="url(#glow)"><animate attributeName="stroke-dashoffset" values="0;-2400" dur="6s" repeatCount="indefinite"/></rect>
+<rect x="18" y="16" width="5" height="32" rx="2" fill="#00f5ff" filter="url(#glow)"/>
+<g clip-path="url(#c)"><text x="40" y="42" font-family="Courier New, monospace" font-size="26" font-weight="bold" letter-spacing="3" fill="#00f5ff" filter="url(#glow)">&gt; OPEN_CHANNELS</text></g>
+<rect y="2" width="220" height="60" fill="url(#sc)"><animateTransform attributeName="transform" type="translate" values="-240 0;1220 0" dur="4.5s" repeatCount="indefinite"/></rect>
+<text x="1176" y="40" text-anchor="end" font-family="Courier New, monospace" font-size="15" letter-spacing="3" fill="#7c6cff">05 / 05</text></svg>
