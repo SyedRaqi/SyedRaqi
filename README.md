@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://syedraqi.github.io/SyedRaqi/profile-capsule.html"><img src="assets/profile-3d-button.svg" alt="Try the interactive 3D version" width="560"/></a>
+<a href="https://syedraqi.github.io/SyedRaqi/profile-capsule.html"><img src="profile-3d-button.svg" alt="Try the interactive 3D version" width="560"/></a>
 
 <sub>Move your mouse over the capsule to tilt it.</sub>
 
