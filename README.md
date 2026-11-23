@@ -4,10 +4,6 @@
 
 <br/>
 
-<a href="https://syedraqi.github.io/SyedRaqi/profile-capsule.html"><img src="raqi-pro-button.svg" alt="Enter the observatory: try the interactive 3D version" width="560"/></a>
-
-<sub>Move your mouse over the capsule to tilt it.</sub>
-
 </div>
 
 <img src="raqi-pro-titlecard.svg" alt="Twelve projects under one sky" width="100%"/>
